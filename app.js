@@ -45,3 +45,4 @@ alert("ACCORDING TO YOUR ZODIAC SIGN WE SUGGEST FOR YOU .......")
 //     }
 
 // alert("Welcome to the Movies land Totally CUSTOMIZED for you")
+
