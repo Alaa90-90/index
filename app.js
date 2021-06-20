@@ -44,5 +44,8 @@ else if (birthMonth == "april" || birthMonth == "august" || birthMonth == "decem
     }
     }
 
+      
+      
+      
 alert("Welcome to the Movies land Totally CUSTOMIZED for you")
 
